@@ -1,5 +1,6 @@
-![AgriAssist logo](dev/Designer-3.png)
+![AgriAssist logo](dev/Designer-31.png)
 🌾 AgriAssist: AI-Powered Agricultural Advisor
+
 🧭 Project Overview
 AgriAssist is an intelligent assistant designed to support small-scale farmers in underdeveloped regions by providing accurate, localized answers to crop-related questions. It leverages parameter-efficient fine-tuning (PEFT) and retrieval-augmented generation (RAG) to deliver reliable agricultural insights using local documents and weather data.
 
