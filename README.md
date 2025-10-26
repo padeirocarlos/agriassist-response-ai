@@ -1,4 +1,5 @@
-![AgriAssist logo](dev/Designer-31.png)
+![AgriAssist logo](dev/Designer-3.png)
+
 🌾 AgriAssist: AI-Powered Agricultural Advisor
 
 🧭 Project Overview
